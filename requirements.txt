@@ -1,0 +1,3 @@
+pytesseract
+gtts
+pdf2image
