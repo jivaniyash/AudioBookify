@@ -58,3 +58,5 @@ Team Members:
 4. John Melo
 5. Dipen Patel
 6. Vicky Jadhav
+
+Additional files and information on [Yuraja Kadari's GitHub](https://github.com/Yurazaqadri/Audiobookify) repository
